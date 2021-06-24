@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tiido-rsa
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on as many front-end development projects as I can
+- 📫 
